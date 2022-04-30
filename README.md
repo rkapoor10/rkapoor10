@@ -1,4 +1,7 @@
-## Hey 👋, I'm Ritik Kapoor!  
+## Hey 👋, I'm Ritik Kapoor!
+
+- FrontEnd Developer
+- Btech Computer Science UnderGrad
   
 
 <a href="https://github.com/rkapoor10" target="_blank">
@@ -14,9 +17,7 @@
 
 
 
-### Glad to see you here!  
-- FrontEnd Developer
-- Btech Computer Science UnderGrad
+
    
 
 <br/>  
