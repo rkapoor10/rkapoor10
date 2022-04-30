@@ -15,9 +15,9 @@
 
 
 ### Glad to see you here!  
-I’m an aspiring full-stack developer who is currently a front-end developer, building with React.  
-Student - Currently pursuing BTECH - in Computer Science and Engineering.  
-  
+- FrontEnd Developer
+- Btech Computer Science UnderGrad
+   
 
 <br/>  
 
