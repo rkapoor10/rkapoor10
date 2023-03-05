@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Ritik Kapoor!
 
+- Community Engineering Intern @Harness 
 - FrontEnd Developer
 - Btech Computer Science UnderGrad
   
