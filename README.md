@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Ritik Kapoor!
 
 - DevRel @ Harness
-- Community Engineering Intern @Harness 
+- Prev Community Engineering Intern @Harness 
 - FrontEnd Developer
 - Btech Computer Science UnderGrad
   
