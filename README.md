@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Ritik Kapoor!
 
+- Software Engineer @ Harness
 - DevRel @ Harness
 - Prev Community Engineering Intern @Harness 
 - FrontEnd Developer
